@@ -1,7 +1,7 @@
 var searchData=
 [
   ['hardcodedpatterns_0',['HardcodedPatterns',['../namespacepesieve.html#afd37518d5bc5a27fc935b3b156f342ea',1,'pesieve']]],
-  ['has_5fempty_5fgui_5finfo_1',['has_empty_gui_info',['../thread__scanner_8cpp.html#a20dfb89b6f97369747479fad5b4e764b',1,'thread_scanner.cpp']]],
+  ['has_5fnative_5fwow64_5fcontext_1',['has_native_wow64_context',['../classpesieve_1_1_thread_scan_report.html#a4b1b8153f36312768815230858f1ed6a',1,'pesieve::ThreadScanReport']]],
   ['has_5fpe_2',['has_pe',['../classpesieve_1_1_working_set_scan_report.html#aa07022105bbf1530e5fe9f7b0f9c4b71',1,'pesieve::WorkingSetScanReport']]],
   ['has_5fshellcode_3',['has_shellcode',['../classpesieve_1_1_working_set_scan_report.html#aae424b26aea4d4149da47f74a033b2e6',1,'pesieve::WorkingSetScanReport']]],
   ['hasanymatch_4',['hasAnyMatch',['../structpesieve_1_1_area_info.html#a210e631ce60f015ac4dec819adbe51fa',1,'pesieve::AreaInfo']]],
@@ -36,7 +36,7 @@ var searchData=
   ['hooktargetmodule_33',['hookTargetModule',['../classpesieve_1_1_patch_list_1_1_patch.html#acec7a5d8080e88233a3df43d8baf22b5',1,'pesieve::PatchList::Patch']]],
   ['hooktargetresolver_34',['HookTargetResolver',['../classpesieve_1_1_hook_target_resolver.html',1,'pesieve::HookTargetResolver'],['../classpesieve_1_1_hook_target_resolver.html#a67f45c79aabc8609ff844bfde436bc4d',1,'pesieve::HookTargetResolver::HookTargetResolver()']]],
   ['hooktargetva_35',['hookTargetVA',['../classpesieve_1_1_patch_list_1_1_patch.html#a88a970b68970e94884d5f4e2efd80359',1,'pesieve::PatchList::Patch']]],
-  ['hprocess_36',['hProcess',['../struct__t__stack__enum__params.html#a657834de8b3a9b7525907db521be6552',1,'_t_stack_enum_params::hProcess'],['../class_process_symbols_manager.html#afbc6ee9e01329ead375d2bacd2e09a48',1,'ProcessSymbolsManager::hProcess']]],
+  ['hprocess_36',['hProcess',['../class_process_symbols_manager.html#afbc6ee9e01329ead375d2bacd2e09a48',1,'ProcessSymbolsManager']]],
   ['hpss_37',['HPSS',['../process__reflection_8cpp.html#a245cc83fbf7f180ff454a487cae263ea',1,'process_reflection.cpp']]],
-  ['hthread_38',['hThread',['../struct__t__stack__enum__params.html#af39d9900e3d580fea3a16440f979bcef',1,'_t_stack_enum_params']]]
+  ['hreflhndl_38',['hReflHndl',['../structpesieve_1_1util_1_1_process_refl.html#ab9c8e4ed8ba8ab11f380de186c78e253',1,'pesieve::util::ProcessRefl']]]
 ];
